@@ -1,0 +1,6 @@
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If else statement\bin\Debug\If else statement.exe.config
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If else statement\bin\Debug\If else statement.exe
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If else statement\bin\Debug\If else statement.pdb
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If else statement\obj\Debug\If else statement.csproj.CoreCompileInputs.cache
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If else statement\obj\Debug\If else statement.exe
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If else statement\obj\Debug\If else statement.pdb

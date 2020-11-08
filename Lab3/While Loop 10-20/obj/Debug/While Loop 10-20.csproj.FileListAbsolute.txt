@@ -1,0 +1,6 @@
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\While Loop 10-20\obj\Debug\While Loop 10-20.csproj.CoreCompileInputs.cache
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\While Loop 10-20\bin\Debug\While Loop 10-20.exe.config
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\While Loop 10-20\bin\Debug\While Loop 10-20.exe
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\While Loop 10-20\bin\Debug\While Loop 10-20.pdb
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\While Loop 10-20\obj\Debug\While Loop 10-20.exe
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\While Loop 10-20\obj\Debug\While Loop 10-20.pdb

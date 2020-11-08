@@ -1,0 +1,7 @@
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\DeclareI Int Variables\obj\Debug\Declare Int Variables.csproj.CoreCompileInputs.cache
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\DeclareI Int Variables\obj\Debug\Declare Int Variables.csprojAssemblyReference.cache
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\DeclareI Int Variables\bin\Debug\DeclareI Int Variables.exe.config
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\DeclareI Int Variables\bin\Debug\DeclareI Int Variables.exe
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\DeclareI Int Variables\bin\Debug\DeclareI Int Variables.pdb
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\DeclareI Int Variables\obj\Debug\DeclareI Int Variables.exe
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\DeclareI Int Variables\obj\Debug\DeclareI Int Variables.pdb

@@ -1,0 +1,7 @@
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If Statement\obj\Debug\If Statement.csprojAssemblyReference.cache
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If Statement\obj\Debug\If Statement.csproj.CoreCompileInputs.cache
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If Statement\bin\Debug\If Statement.exe.config
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If Statement\bin\Debug\If Statement.exe
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If Statement\bin\Debug\If Statement.pdb
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If Statement\obj\Debug\If Statement.exe
+C:\Users\jdegr\source\repos\IT1050-JasonDeGraff\IT1050-JasonDeGraff\Lab3\If Statement\obj\Debug\If Statement.pdb
